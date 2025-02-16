@@ -8,7 +8,8 @@ This is a **Pizza Application UI** project for iOS, built using **SwiftUI**. The
 
 Watch the demo video of the **Pizza Application UI**:
 
-[![Pizza App UI Demo](https://img.youtube.com/vi/your_video_id/0.jpg)](https://www.youtube.com/watch?v=your_video_id)
+
+[![Pizza App UI Demo]()
 
 ---
 

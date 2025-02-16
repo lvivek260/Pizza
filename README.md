@@ -28,4 +28,4 @@ To get this project running on your local machine:
 1. **Clone the repository:**  
 
    ```bash  
-   git clone https://github.com/lvivek260/Pizza.git  
+   https://github.com/lvivek260/Pizza.git  

@@ -4,8 +4,6 @@ This is a **Pizza Application UI** project for iOS, built using **SwiftUI**. The
 
 ---
 
----
-
 ## Video Demo  
 
 Watch the demo video of the **Pizza Application UI**:
@@ -30,4 +28,4 @@ To get this project running on your local machine:
 1. **Clone the repository:**  
 
    ```bash  
-   git clone https://github.com/yourusername/PizzaApp.git  
+   git clone https://github.com/lvivek260/Pizza.git  
